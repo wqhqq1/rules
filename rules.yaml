@@ -1,0 +1,3 @@
+name: ecpay 绕过代理
+rules:
+  - DOMAIN-KEYWORD,payment.ecpay.com.tw,DIRECT
